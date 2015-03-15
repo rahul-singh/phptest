@@ -1,3 +1,3 @@
 <?php
-echo 'test comit';
+echo 'test commits by GitHub';
 ?>
